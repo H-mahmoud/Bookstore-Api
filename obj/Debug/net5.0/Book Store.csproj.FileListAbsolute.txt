@@ -1,0 +1,70 @@
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Book Store.exe
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Book Store.deps.json
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Book Store.runtimeconfig.json
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Book Store.runtimeconfig.dev.json
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Book Store.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\ref\Book Store.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Book Store.pdb
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.csprojAssemblyReference.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.AssemblyInfoInputs.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.AssemblyInfo.cs
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\staticwebassets\Book Store.StaticWebAssets.Manifest.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\staticwebassets\Book Store.StaticWebAssets.xml
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\scopedcss\bundle\Book Store.styles.css
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.csproj.CopyComplete
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\ref\Book Store.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.pdb
+C:\Users\Hassan\source\repos\Book Store\Book Store\obj\Debug\net5.0\Book Store.genruntimeconfig.cache
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Hassan\source\repos\Book Store\Book Store\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
